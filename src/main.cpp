@@ -129,12 +129,12 @@ INITIALIZE_PLUGIN() {
         for (const auto& patch : url_patches) {
             write_string(patch.address, patch.url);
         }
-        DEBUG_FUNCTION_LINE("Pretendo URL and NoSSL patches applied successfully.");
-        StartNotificationThread("Using Pretendo Network");
+        DEBUG_FUNCTION_LINE("Project grape URL and NoSSL patches applied successfully.");
+        StartNotificationThread("Using Project grape");
     }
     else {
         DEBUG_FUNCTION_LINE("Pretendo URL and NoSSL patches skipped.");
-        StartNotificationThread("Using Nintendo Network");
+        StartNotificationThread("No longer using grape");
     }
 
     MCP_Close(mcp);
