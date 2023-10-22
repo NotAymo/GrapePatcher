@@ -1,6 +1,4 @@
-# Inkay - Aroma patches for Pretendo
-
-[![Pretendo network logo](https://github.com/PretendoNetwork/website/raw/master/public/assets/images/opengraph/opengraph-image.png)](https://pretendo.network)
+# Inkay - Aroma patches for Grape
 
 Inkay is an Aroma/WUPS plugin that patches various Nintendo Network URLs on a Wii U to use Pretendo Network instead. It also (for the time being) bypasses SSL verification in most cases.
 
