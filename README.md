@@ -6,6 +6,11 @@ Inkay is an Aroma/WUPS plugin that patches various Nintendo Network URLs on a Wi
 
 Inkay does not currently include the game-specific patches present in [Nimble](https://github.com/PretendoNetwork/Nimble). These will be implemented soon™.
 
+# Note from Aymo
+
+This is best not using it, since its beta software and could brick your Wii U
+its made for https://grape.helioho.st/ but the original Inkay is at https://github.com/PretendoNetwork/Inkay
+
 ## Dependencies
 Inkay is only supported on the release version of Aroma configured for autoboot/coldboot. For Tiramisu, see [Nimble](https://github.com/PretendoNetwork/Nimble).
 
