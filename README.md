@@ -8,7 +8,8 @@ Inkay does not currently include the game-specific patches present in [Nimble](h
 
 Project grape is in beta. It shouldn't brick your Wii U.
 Its made for https://grape.helioho.st/ but the original Inkay is at https://github.com/PretendoNetwork/Inkay
-
+You can't compile without [Devkitpro](https://devkitpro.org) and [Wut](https://github.com/devkitPro/wut).
+The WPS file will be added in a later date.
 ## Dependencies
 Inkay is only supported on the release version of Aroma configured for autoboot/coldboot. For Tiramisu, see [Nimble](https://github.com/PretendoNetwork/Nimble).
 
