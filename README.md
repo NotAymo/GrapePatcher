@@ -18,3 +18,7 @@ Inkay's patches are all temporary, and only applied in-memory without modifying 
 
 ## TODO
 See [Issues](https://github.com/PretendoNetwork/Inkay/issues).
+
+## NOTES
+
+There are chances we may be rebranding to project Cerulean, keep on a look out!
